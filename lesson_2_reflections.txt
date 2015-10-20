@@ -2,3 +2,10 @@ What happens when you initialize a repository? Why do you need to do it?
 -- A .git (hidden file) is created
 -- This enables all the underlying code to work, allowing you to create commits (track work), see status, etc.
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+-- The staging area is your index area or the "loading dock". Maybe even the experimental area where you can make the changes you want, ensure all the "inventory" is there and then commit. The working directory is your current view. The staging area has files in it that will change. The repository tracks all the changes (commits).
+
+How can you use the staging area to make sure you have one commit per logical change?
+-- You could track your changes with git diff and git diff --staging. 
+-- But more specifically you can make changes 
+
