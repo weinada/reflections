@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+-- A .git (hidden file) is created
+-- This enables all the underlying code to work, allowing you to create commits (track work), see status, etc.
+
