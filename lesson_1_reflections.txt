@@ -1,0 +1,8 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+-- I wasn't all that enthused about it.
+-- Seemed a little more difficult than anticipated to find the issue. Typos are generally pretty easy to find in other text docs like Word, so this wouldn't have been an issue.
+-- All said, with large files and a shit ton of lines I could see some value in it. Just hope the signals that something has changed (-, +) are easy to track and understand.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+-- Maybe by allowing me to try different things, ideas, code, to try to accomplish what I'm trying to do without the worry of losing historical references...
+
