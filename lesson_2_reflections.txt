@@ -16,6 +16,13 @@ What are some situations when branches would be helpful in keeping your history 
 -- new features 
 -- test coding
 
+-- Master branch is the production ready branch. Other branches are great for experimenting. Use them for contextual switches/changes. E.g., if fixing a bus. Use a branch to avoid messing up the master.
+-- If multiple people are working at the same time, each can create their own branch, work simultaneous w/o impacting the other.
+
+How do the diagrams help you visualize the branch structure?
+-- Provides a visual understanding of location or how to find commits. The linear or non-linear visual explanation of changes made to the different branches.
+
+
 
 
 
