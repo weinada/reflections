@@ -26,6 +26,11 @@ What is the result of merging two branches together? Why do we represent it in t
 -- Brings together changes into one single play. Limits the # of branches to track. 
 -- Diagram is great to visualize the structure, identify the commits for each branch (linear), and where to merge each branch when needed. Pretty clean.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+-- automatic merging pulls all the commits in itself but it might not be as specific or detailed, or understanding of what all should or should not be included. The good thing is that it flags potential conflicts.
+-- Manually takes more time but you can be more hands-on and aware and selective of what should be merged.
+
+
 
 
 
