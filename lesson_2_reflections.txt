@@ -22,6 +22,10 @@ What are some situations when branches would be helpful in keeping your history 
 How do the diagrams help you visualize the branch structure?
 -- Provides a visual understanding of location or how to find commits. The linear or non-linear visual explanation of changes made to the different branches.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+-- Brings together changes into one single play. Limits the # of branches to track. 
+-- Diagram is great to visualize the structure, identify the commits for each branch (linear), and where to merge each branch when needed. Pretty clean.
+
 
 
 
